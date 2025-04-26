@@ -33,7 +33,7 @@ import org.slf4j.Logger;
 public class PowerRangersUnleashed
 {
 
-    public static final String MOD_ID = "powerrangersunleashed";
+    public static final String MOD_ID = "power_rangers_unleashed";
 
     private static final Logger LOGGER = LogUtils.getLogger();
 
